@@ -30,3 +30,17 @@ https://robohash.org/
 ```js
 https://jsonplaceholder.typicode.com/users
 ```
+
+
+### Robot Friend CheckList
+
+* [ ] Create react Application
+  * [ ] Install create-react-app
+  > `> npm i -g create-react-app`
+  * [ ] Create react robotfriend app
+  > `> create-react-app robofriends`
+* [ ] Start the app
+  > `npm start`
+* [ ] Remove unecessary files
+* [ ] Install tachyons
+  > `npm i tachyons`
